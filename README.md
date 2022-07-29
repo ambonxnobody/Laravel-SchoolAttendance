@@ -1,6 +1,6 @@
-## absensi Open Source - Installation
+## Laravel-SchoolAttendance Open Source - Installation
 
-The requirements to Laravel absensi application is:
+The requirements to Laravel-SchoolAttendance application is:
 
 - **PHP - Supported Versions**: >= 8.0
 - **Webserver**: Nginx or Apache
@@ -9,8 +9,8 @@ The requirements to Laravel absensi application is:
 ### Git Clone
 
 ```
-$ git clone https://github.com/ambonxnobody/absensi.git
-$ cd absensi
+$ git clone https://github.com/ambonxnobody/Laravel-SchoolAttendance.git
+$ cd Laravel-SchoolAttendance-main
 $ composer update
 ```
 
@@ -57,7 +57,7 @@ php artisan migrate --seed
 ```
 
 ```
-Application name: absensi
+Application name: Laravel-SchoolAttendance
 Homepage URL: URL (Same as APP_URL at .env)
 ```
 
