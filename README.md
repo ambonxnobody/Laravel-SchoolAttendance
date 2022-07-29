@@ -11,6 +11,7 @@ The requirements to Laravel absensi application is:
 ```
 $ git clone https://github.com/ambonxnobody/absensi.git
 $ cd absensi
+$ composer update
 ```
 
 ## Setup
